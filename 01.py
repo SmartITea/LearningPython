@@ -3,4 +3,4 @@ def f(x,y):
 	x + y
 	return
 
-f(8,5)
+f(3,5)
